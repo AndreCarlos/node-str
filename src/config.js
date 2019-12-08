@@ -3,6 +3,6 @@ global.EMAIL_TMPL = 'Olá, <strong>{0}</strong>, seja bem vindo à Node Store!';
 
 module.exports = {
     connectionString: 'mongodb+srv://andre:andre@cluster0-rctbw.azure.mongodb.net/test?retryWrites=true&w=majority',
-    sendgridKey: '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',
+    sendgridKey: '',
     containerConnectionString: 'DefaultEndpointsProtocol=https;AccountName=nodstr;AccountKey=Ujit8rqj1pUiOUc54C7QUq2SxzoXk2kgn1DtQoCl0pZ/GqB1NDSPmcCGgkvIz84uylHwoEPMrH8HjGCdcJW4ag==;EndpointSuffix=core.windows.net'
 }
